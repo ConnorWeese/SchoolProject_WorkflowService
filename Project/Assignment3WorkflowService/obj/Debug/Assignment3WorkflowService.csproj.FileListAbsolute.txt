@@ -1,0 +1,6 @@
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\bin\Assignment3WorkflowService.dll.config
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\bin\Assignment3WorkflowService.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\bin\Assignment3WorkflowService.pdb
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\obj\Debug\Assignment3WorkflowService.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\obj\Debug\Assignment3WorkflowService.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 2\Assignment 3\Assignment3WorkflowService\obj\Debug\Assignment3WorkflowService.pdb

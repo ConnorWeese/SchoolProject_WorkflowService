@@ -1,0 +1,2 @@
+SunshineActivity.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper

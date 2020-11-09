@@ -1,0 +1,6 @@
+obj\Debug\SunshineActivity.g.xaml
+obj\Debug\EncryptActivity.g.xaml
+obj\Debug\DecryptActivity.g.xaml
+obj\Debug\Assignment3WindowsFormsApp_SunshineActivity_BeforeInitializeComponentHelper.txt
+obj\Debug\Assignment3WindowsFormsApp_EncryptActivity_BeforeInitializeComponentHelper.txt
+obj\Debug\Assignment3WindowsFormsApp_DecryptActivity_BeforeInitializeComponentHelper.txt

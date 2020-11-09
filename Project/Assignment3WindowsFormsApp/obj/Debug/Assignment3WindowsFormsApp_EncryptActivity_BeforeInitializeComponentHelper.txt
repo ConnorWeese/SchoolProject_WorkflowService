@@ -1,0 +1,2 @@
+EncryptActivity.g.xaml
+XamlStaticHelperNamespace._XamlStaticHelper
